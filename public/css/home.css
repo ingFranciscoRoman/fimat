@@ -1,0 +1,54 @@
+.col{
+    /* border: 1px solid red; */
+    margin-top: 50px;
+    text-align: center;
+}
+
+.cardImg{
+    width: 250px;
+    border-radius: 10px;
+    box-shadow: 10px;
+}
+
+.cardImg:hover{
+    width: 250px;
+    transition: width 0.3s;
+    -webkit-transition: width 0.3s;
+    -moz-transition: width 0.3s;
+    -o-transition: width 0.3s;
+}
+
+#foto_heade{
+    margin-top: -15px;
+    margin-bottom: 10px;
+}
+
+.logo_fimat{
+    width: 50px;
+}
+/**** ESTILOS DE LOS BOTONES ******/
+#btn_clases_vivo{
+    border: 1px solid rgba(182, 182, 182, 0.52);
+    box-shadow: 4px 3px 3px rgba(133, 133, 133, 0.527);
+    border-radius: 30px;
+    width: 130px;
+}
+#btn_retos{
+    border: 1px solid rgba(182, 182, 182, 0.52);
+    box-shadow: 4px 3px 3px rgba(133, 133, 133, 0.527);
+    border-radius: 30px;
+    width: 130px;
+}
+
+footer {
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    color: white;
+  }
+
+.item_nav{
+    box-shadow: black;
+}

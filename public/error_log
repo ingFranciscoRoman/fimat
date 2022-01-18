@@ -1,0 +1,4 @@
+[29-Jul-2021 19:47:07 UTC] PHP Warning:  Unterminated comment starting line 56 in /home5/fimatcom/public_html/plataforma_cms/app/Http/Controllers/ConsultasController.php on line 56
+[29-Jul-2021 19:47:07 UTC] PHP Warning:  Unterminated comment starting line 56 in /home5/fimatcom/public_html/plataforma_cms/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php on line 239
+[29-Jul-2021 19:47:18 UTC] PHP Warning:  Unterminated comment starting line 56 in /home5/fimatcom/public_html/plataforma_cms/app/Http/Controllers/ConsultasController.php on line 56
+[29-Jul-2021 19:47:18 UTC] PHP Warning:  Unterminated comment starting line 56 in /home5/fimatcom/public_html/plataforma_cms/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php on line 239

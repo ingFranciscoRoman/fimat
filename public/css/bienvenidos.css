@@ -1,0 +1,45 @@
+
+.cont_info{
+    width: 1000px;
+    font-weight: bold;
+    text-align: center;
+}
+.cont_info h1{
+    font-size: 60px;
+}
+.cont_info h2{
+    font-size: 40px;
+    margin-top: -45px;
+}
+.img_welcome-fimat{
+    width: 200px;
+}
+.enlaces{
+    color: #1717a4;
+    font-weight: bold;
+    font-size: 19px;
+}
+#cont_items1{
+    margin-top: -800px;
+}
+#img_logoFimat{
+    width: 200px;
+}
+#titulo_bienvenido{
+    color: #1717a4;
+    font-size: 60px;
+    font-weight: 900; 
+    text-align: center;
+    margin-top: 30px;
+}
+#cont_items2{
+    margin: auto;
+    margin-top: 50px;
+    width: 1300px;
+}
+#subtitulo_bienvenido{
+    color: #1717a4;
+    font-size: 40px;
+    font-weight: 900;
+    text-align: center;
+}

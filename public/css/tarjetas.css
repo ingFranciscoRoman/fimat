@@ -1,0 +1,38 @@
+#contenedor_media{
+    display: inline-block;
+    margin-left: 50px;
+    width: 500px;
+}
+#contenedor_media h5{
+    font-weight: bold;
+    text-align: center;
+}
+.link_video, .VideoFisica, .videoQuimica, .videoSociales, .videoMatematicas, .videoIngles, .videoLectura{
+    border-radius: 3px;
+    margin-top: 10px;
+    width: 1180px;
+}
+#cont_videos{
+    border: 1px solid black;
+    border-radius: 3px;
+    margin-top: 10px;
+    margin-left: 50px;
+    position: relative;
+}
+.link_documento, .DocumentoFisica, .documentoQuimica, .docSociales, .docMatematicas, .docIngles, .docLectura{
+    border: 1px solid rgba(90, 83, 83, 0.472);
+    border-radius: 3px;
+    background-color: rgba(255, 255, 255, 0.801);
+    margin-top: 10px;
+    padding: 10px;
+    width: 1150px;
+}
+#cont_documento{
+    font-size: 20px;
+    font-weight: bold;
+}
+#li_documentos{
+    border-bottom: 1px solid rgba(82, 79, 79, 0.534);
+    list-style: none;
+    padding: 10px;
+}
